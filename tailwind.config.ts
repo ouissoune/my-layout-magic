@@ -57,6 +57,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        booking: {
+          primary: "hsl(var(--booking-primary))",
+          secondary: "hsl(var(--booking-secondary))",
+          tertiary: "hsl(var(--booking-tertiary))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
